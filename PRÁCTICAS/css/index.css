@@ -221,7 +221,7 @@ main .slide {
 
 @media (min-width: 720px) {
     header{
-        position: fixed; 
+         
         width: 100%;
         background-color: rgb(245, 245, 245);
     }
